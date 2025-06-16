@@ -1,0 +1,10 @@
+s='Hello,World,Python'
+print(s.split())
+a='Hello|World|Python'
+print(a.split(sep='|'))
+print('——————————————————————————————')
+print(s.split())
+print(a.split(sep='|',maxsplit=1))
+print('——————————————————————————————')
+print(s.rsplit())
+print(a.rsplit(sep='|',maxsplit=1))

@@ -15,25 +15,32 @@ Python小白基础（包含Numpy,Tensorflow,pytorch)
 ![img.png](img.png)
 
 3.主页面设计
-！[main.png](main.png)
+![main.png](main.png)
 
 4.录入学生成绩
+
 ![insert.png](assert%2Finsert.png)
 
 5.删除学生成绩
+
 ![delete.png](assert%2Fdelete.png)
 
 6.修改学生成绩
+
 ![modify.png](assert%2Fmodify.png)
 
 7.查询学生成绩
+
 ![img_2.png](img_2.png)
 
 8.排序学生成绩
+
 ![sort.png](assert%2Fsort.png)
 
 9.统计学生总人数
+
 ![count.png](assert%2Fcount.png)
 
 10.显示学生信息
+
 ![show.png](assert%2Fshow.png)

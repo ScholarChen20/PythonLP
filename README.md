@@ -18,7 +18,8 @@ Python小白基础（包含Numpy,Tensorflow,pytorch)
 
 3.主页面设计
 
-![Uploading main.png…]()
+![main](https://github.com/user-attachments/assets/9312ed3d-12f9-4ef7-8ad5-43f2fe1e491c)
+
 
 
 4.录入学生成绩
